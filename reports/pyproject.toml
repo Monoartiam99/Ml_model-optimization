@@ -1,0 +1,9 @@
+[project]
+name = "assignment-3"
+version = "0.1.0"
+description = "ML model optimization"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "joblib>=1.5.3",
+]
