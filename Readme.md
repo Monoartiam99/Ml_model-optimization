@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Datasets](#-datasets)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This notebook explores the task of predicting the presence of heart disease using supervised machine learning. The workflow covers the full ML pipeline — from raw data cleaning through to saving a production-ready model — with a focus on understanding model behaviour, evaluation metrics, and tuning strategies.
 
@@ -32,7 +32,7 @@ Key goals:
 
 ---
 
-## 📂 Datasets
+## Datasets
 
 | File | Description |
 |---|---|
@@ -43,7 +43,7 @@ Both datasets contain a `target` column where `0 = No Disease` and `1 = Disease`
 
 ---
 
-## 📓 What's Inside the Notebook
+## What's Inside the Notebook
 
 ### 1. Data Preprocessing
 
@@ -123,7 +123,7 @@ predictions = model.predict(X_test)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Library | Purpose |
 |---|---|
@@ -138,7 +138,7 @@ predictions = model.predict(X_test)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **1. Clone the repository**
 
@@ -163,7 +163,7 @@ jupyter notebook assigment_3_1.ipynb
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 By working through this notebook you will understand how to:
 
