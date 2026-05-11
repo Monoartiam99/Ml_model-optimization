@@ -176,3 +176,6 @@ By working through this notebook you will understand how to:
 - Perform K-Fold cross validation manually and with GridSearchCV
 - Build scikit-learn Pipelines for clean model tuning
 - Save and reload trained models with pickle
+  
+## My Model Test Accuracy
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/911c9bb5-210a-4223-8a70-b6451e1a818d" />
