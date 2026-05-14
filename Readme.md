@@ -179,3 +179,6 @@ By working through this notebook you will understand how to:
   
 ## My Model Test Accuracy
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/911c9bb5-210a-4223-8a70-b6451e1a818d" />
+
+### Screenshots of wakatime:
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/09f8f789-eb8b-4598-a5d3-0b80502fbdc9" />
