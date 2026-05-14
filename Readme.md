@@ -143,7 +143,7 @@ predictions = model.predict(X_test)
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git](https://github.com/Monoartiam99/Ml_model-optimization)
+git clone https://github.com/Monoartiam99/Ml_model-optimization
 cd your-repo-name
 ```
 
